@@ -21,14 +21,10 @@ To build models that accurately **classify mental health conditions** using NLP 
 - Transformer Models (BERT)
 - Large Language Models (LLMs)
 
----
-
 ## Challenges 
 
 - Overfitting
 - Class imbalance
-
----
 
 ## Preprocessing
 
@@ -41,8 +37,7 @@ To build models that accurately **classify mental health conditions** using NLP 
   - **TF-IDF**
   - **Trigrams**
   - **Word embeddings** (Word2Vec/BERT embeddings)
-
----
+    
 
 ## Models Implemented
 
@@ -61,7 +56,7 @@ To build models that accurately **classify mental health conditions** using NLP 
 ### LLM (GPT-4o)
 - Prompt-based classification or zero-shot/few-shot learning using GPT-style models
 
----
+
 
 ## Evaluation Metrics
 
@@ -71,7 +66,7 @@ Each model was evaluated using:
 - Precision, Recall, F1-score (per class and macro/micro averages)
 - Confusion Matrix
 
----
+
 
 ## Results Summary
 
