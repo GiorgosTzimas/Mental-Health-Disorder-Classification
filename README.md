@@ -93,10 +93,30 @@ Special attention was given to **F1-score** due to class imbalance.
 
 ## Practical Implications
 
-- NLP models can support early detection of mental health signals from text  
-- Transformer models are better suited for complex, context-dependent tasks  
-- LLMs provide a flexible alternative when training is not feasible  
-- Model choice should balance performance, cost, and deployment constraints  
+- Model choice has a direct impact on performance and interpretability  
+- Simpler models can be effective but may miss complex patterns in text  
+- Transformer-based models are better suited for capturing context in NLP tasks  
+- LLMs can be used when flexibility is needed, especially with limited training data  
+- Handling class imbalance and text preprocessing decisions significantly affect results  
+- There is a trade-off between model complexity, computational cost, and deployment feasibility
+- 
+
+## Impact and Implications
+
+This type of NLP approach can be applied in domains where large volumes of text need to be analyzed and categorized.
+
+Potential applications include:
+
+- Supporting early detection systems that highlight potentially high-risk content for human review  
+- Assisting professionals in organizing and prioritizing large-scale text data  
+- Monitoring user-generated content to identify patterns related to mental well-being  
+- Improving conversational systems in sensitive contexts  
+
+This project highlights that:
+
+- Model performance depends heavily on data representation and task design  
+- Real-world systems require balancing accuracy, interpretability, and cost  
+- Human oversight remains important when applying such models in sensitive domains   
 
 
 ## Tools Used
