@@ -1,6 +1,8 @@
-NLP for Mental Health Disorder Classification
+# NLP for Mental Health Disorder Classification
 
 This project applies NLP techniques to identify and classify **mental health conditions** based on user-generated text data. It explores traditional machine learning, deep learning, and transformer-based approaches to predict the likelihood of disorders including **anxiety, depression, bipolar disorder**, and others.
+
+The project was developed as part of academic coursework for the course Natural Language Processing and Text Analytics (MSc. in Business Administration and Data Science).
 
 ## Dataset
 
